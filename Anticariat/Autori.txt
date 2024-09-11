@@ -1,0 +1,8 @@
+Nume: Preda,Prenume: Marin,Nationalitate: Romana
+Nume:  De Balzac,Prenume: Honoré,Nationalitate: Franceza
+Nume: Eliade,Prenume: Mircea,Nationalitate: Romana
+Nume: Marcel,Prenume: Proust,Nationalitate: Franceza
+Nume: Charles,Prenume: Dickens,Nationalitate: Engleza
+Nume: Gabriel Garcia,Prenume: Marquez,Nationalitate: Spaniola
+Nume: Guillaume,Prenume: Musso,Nationalitate: Franceza
+Nume: Haruki,Prenume: Murakami,Nationalitate: Japoneza

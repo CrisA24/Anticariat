@@ -1,0 +1,11 @@
+Morometii,Marin Preda,45.99,disponibil
+Morometii2,Marin Preda,55.99,disponibil
+Maytrey,Mircea Eliade,56.89,stoc redus
+Iluzii Pierdute,Honoré De Balzac,35.99,stoc redus
+In cautarea timpului pierdut,Marcel Proust,64.99,disponibil
+Marile speranțe,Charles Dickens,44.99,disponibil
+Un veac de singurătate,Gabriel Garcia Marquez,36.4,indisponibil
+Un apartament la Paris,Guillaume Musso,41.54,disponibil
+1Q84.V1,Haruki Murakami,33.96,disponibil
+1Q84.V2,Haruki Murakami,40.99,indisponibil
+1Q84.V3,Haruki Murakami,45.87,stoc redus
